@@ -1,0 +1,60 @@
+html{
+    margin: 0;
+    padding: 0;
+    max-width: 100vw;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden; 
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+}
+.one{
+    background-color: rgb(233, 192, 143);
+   
+}
+/* navbar */
+/* footer media icon */
+.NavIcons{
+    display: inline-block;
+    font-size: 1.4em;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding-top: 10px;
+    padding-left: 25px;
+    color:rgb(221, 19, 19) !important; 
+    border-radius: 50%;
+    
+}
+.one{
+    position: fixed;
+}
+/* .rtwo{
+    position: fixed;
+} */
+.one.rthree{
+    position: fixed;
+}
+/* 
+.rfour{
+    position: fixed;
+} */
+.two{
+    background-color: rgb(133, 80, 15);
+}
+/* footer media icon */
+.icon{
+    display: inline-block;
+    font-size: 1.4em;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    padding-top: 10px;
+    text-align: center;
+    color:rgb(221, 19, 19) !important; 
+}
