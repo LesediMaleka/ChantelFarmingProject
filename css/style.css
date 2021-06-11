@@ -31,22 +31,17 @@ body{
     border-radius: 50%;
     
 }
-.one{
-    position: fixed;
-}
-/* .rtwo{
-    position: fixed;
-} */
-.one.rthree{
-    position: fixed;
-}
-/* 
-.rfour{
-    position: fixed;
-} */
+
+
 .two{
     background-color: rgb(133, 80, 15);
 }
+
+/* Scope section */
+.ScopeCards{
+    margin-left: -2vw;
+    
+  }
 /* footer media icon */
 .icon{
     display: inline-block;
